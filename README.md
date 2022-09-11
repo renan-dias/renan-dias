@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Renan!</strong>
+## 💜 Olá, meu nome é <strong>{Renan!}</strong>
 
 > Me chamo Renan, tenho 21 anos e sou aluno de Engenharia de Software na Estácio. Sou apaixonado por tecnologia desde pequeno e encontrei na programação uma forma de traduzir ideais e me comunicar com o mundo. Busco sempre me manter atualizado quando o assunto é a área de TI, aprendendo diferentes stacks para dar vida a alguma ideia.
 
@@ -23,6 +23,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity"/></code>
 
 ---
 
