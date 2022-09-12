@@ -2,9 +2,6 @@
 
 > Me chamo Renan, tenho 21 anos e sou aluno de Engenharia de Software na Estácio. Sou apaixonado por tecnologia desde pequeno e encontrei na programação uma forma de traduzir ideais e me comunicar com o mundo. Busco sempre me manter atualizado quando o assunto é a área de TI, aprendendo diferentes stacks para dar vida a alguma ideia.
 
-
-🔭 Já desenvolvi de sites estáticos a sistemas dinâmicos e escaláveis, atualmente estou focado na produção de jogos.
-
 💬 Contato: dev.rdpb@gmail.com
 
 ----
