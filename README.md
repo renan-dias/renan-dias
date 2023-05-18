@@ -2,7 +2,7 @@
 
 > Me chamo Renan, tenho 22 anos, sou Engenheiro de Software, apaixonado por tecnologia desde pequeno e encontrei na programação uma forma de traduzir ideais e me comunicar com o mundo. Busco sempre me manter atualizado quando o assunto é a área de TI, aprendendo diferentes stacks para dar vida a alguma ideia.
 
-💬 Contato: dev.rdpb@gmail.com
+💬 Contato: renanprodias2050@gmail.com
 
 ----
 
