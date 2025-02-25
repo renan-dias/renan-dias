@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>{Renan!}</strong>
 
-> Me chamo Renan, tenho 23 anos, sou Engenheiro de Software, apaixonado por tecnologia desde pequeno e encontrei na programação uma forma de traduzir ideais e me comunicar com o mundo. Busco sempre me manter atualizado quando o assunto é a área de TI, aprendendo diferentes stacks para dar vida a alguma ideia.
+> Me chamo Renan, tenho 24 anos, sou Engenheiro de Software, apaixonado por tecnologia desde pequeno e encontrei na programação uma forma de traduzir ideais e me comunicar com o mundo. Busco sempre me manter atualizado quando o assunto é a área de TI, aprendendo diferentes stacks para dar vida a alguma ideia.
 
 💬 Contato: renanprodias2050@gmail.com
 
